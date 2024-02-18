@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘—Î†ıÿÿÿÿ8öÒôÛ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ•Ù´8‘‚ÒôÛ1
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ö…8“‚ÒôÛ1
+e
+java:S1128"CRemove this unused import 'tn.esprit.pockerplanning.entities.User'.(‰êóÃşÿÿÿÿ8ğÙÒôÛ1

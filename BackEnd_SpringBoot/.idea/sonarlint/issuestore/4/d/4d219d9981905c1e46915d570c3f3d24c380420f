@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘—Î†ýÿÿÿÿ8œôžôÛ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œížø8¦ôžôÛ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈøÕƒ8¨ôžôÛ1
+T
+java:S1128"7Remove this unused import 'org.aspectj.weaver.ast.Not'.(Ù§¸þ8«ôžôÛ1

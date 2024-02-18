@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èø‰ñ8ª¶£óÛ1
+I
+java:S1905"'Remove this unnecessary cast to "List".(Úº…¢üÿÿÿÿ8½¶£óÛ1
+m
+java:S1128"PRemove this unused import 'tn.esprit.pockerplanning.Interface.UserStoryService'.(Á£ØÕ8À¶£óÛ1
