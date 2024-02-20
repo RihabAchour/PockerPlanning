@@ -17,18 +17,6 @@ F
 VPockerPlanning/src/main/java/tn/esprit/pockerplanning/repositories/UserRepository.java,c\9\c92635563a4630e470cf8a2c1b6eff4d764550fa
 „
 TPockerPlanning/src/main/java/tn/esprit/pockerplanning/PockerPlanningApplication.java,a\d\adf014c539628cfb23a61933d077c3f953ef3e91
-ƒ
-SPockerPlanning/src/main/java/tn/esprit/pockerplanning/Service/UserStoryService.java,8\4\84727e5082b60bbf717c12036c05689a13318508
-ˆ
-XPockerPlanning/src/main/java/tn/esprit/pockerplanning/Interface/UserStoryServiceImp.java,3\2\32cbc6290a4f0e739e1a6a7d2c35d0e3b498edf5
-~
-NPockerPlanning/src/main/java/tn/esprit/pockerplanning/Service/CardService.java,c\6\c628807258a2a818f22741106603982e4da85182
-~
-NPockerPlanning/src/main/java/tn/esprit/pockerplanning/Service/NoteService.java,0\d\0d77c19fc3df7be55c8049aaa161a60f68cc808b
-ƒ
-SPockerPlanning/src/main/java/tn/esprit/pockerplanning/Interface/CardServiceImp.java,4\1\41d955865b8e501198e807ede214e144922d7efb
-ƒ
-SPockerPlanning/src/main/java/tn/esprit/pockerplanning/Interface/NoteServiceImp.java,e\d\ede67ee05aef340ddf1087ecc4ef8e8b3ba3ff17
 €
 PPockerPlanning/src/main/java/tn/esprit/pockerplanning/Interface/CardService.java,a\4\a48fbe9d32f410d9f0cbc2fc45f97f22873c7a66
 €
@@ -47,3 +35,7 @@ YPockerPlanning/src/main/java/tn/esprit/pockerplanning/Controller/UserStoryContr
 TPockerPlanning/src/main/java/tn/esprit/pockerplanning/Controller/CardController.java,a\8\a8c32a15e13237c6ba830f3266ad4ccfaabb0daf
 „
 TPockerPlanning/src/main/java/tn/esprit/pockerplanning/Controller/NoteController.java,4\d\4d219d9981905c1e46915d570c3f3d24c380420f
+h
+8PockerPlanning/src/main/resources/application.properties,2\8\28e557604cd67e55b73d3ffaa17e93fdacfd98b6
+}
+MPockerPlanning/src/main/java/tn/esprit/pockerplanning/entities/Evenement.java,1\b\1bc2066d8bcfaf5c1bf1a458a1fc14ee4c4221e3

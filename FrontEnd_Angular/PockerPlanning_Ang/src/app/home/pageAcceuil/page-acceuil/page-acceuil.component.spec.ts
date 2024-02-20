@@ -1,7 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { PageAcceuilComponent } from './page-acceuil.component';
-
 describe('PageAcceuilComponent', () => {
   let component: PageAcceuilComponent;
   let fixture: ComponentFixture<PageAcceuilComponent>;

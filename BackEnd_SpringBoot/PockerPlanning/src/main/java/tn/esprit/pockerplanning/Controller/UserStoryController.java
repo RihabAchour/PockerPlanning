@@ -32,7 +32,7 @@ public class UserStoryController {
     public UserStory findById(@PathVariable long id){
         return userStoryService.FindUserStoryById(id);
     }
-    @DeleteMapping
+    @DeleteMapping("/{id}")
     public void Delete(@PathVariable long id){
         userStoryService.DeleteUserStory(id);
     }

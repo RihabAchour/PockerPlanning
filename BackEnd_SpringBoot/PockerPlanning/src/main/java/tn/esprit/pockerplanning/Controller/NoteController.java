@@ -30,7 +30,7 @@ public class NoteController {
     public Note findById(@PathVariable long id){
         return noteService.FindNoteById(id);
     }
-    @DeleteMapping
+    @DeleteMapping("/{id}")
     public void delete(@PathVariable long id )
     {
         noteService.DeleteNote(id);

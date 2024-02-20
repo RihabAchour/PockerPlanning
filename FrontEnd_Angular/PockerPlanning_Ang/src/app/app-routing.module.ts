@@ -4,7 +4,7 @@ import { PageAcceuilComponent } from './home/pageAcceuil/page-acceuil/page-acceu
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
-  {path:'home', component:PageAcceuilComponent},
+ {path:'home', component:PageAcceuilComponent},
   { path: 'admin', loadChildren:()=>import('./modules/admin/admin.module').then(x => x.AdminModule) },
   { path: 'chefProjet', loadChildren:()=>import('./modules/chef-projet/chef-projet.module').then(x => x.ChefProjetModule) },
   { path: 'developpeur', loadChildren:()=>import('./modules/developpeur/developpeur.module').then(x => x.DeveloppeurModule) }
